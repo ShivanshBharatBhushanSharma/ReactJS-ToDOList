@@ -1,0 +1,23 @@
+#container {
+    background-color: #7c4dff;
+    width: 500px;
+    margin-left: 30%;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+p{
+    width: 100%;
+    background-color: #b388ff;
+    text-align: center;
+}
+input{
+    width: 75%;
+    margin-right: 3%;
+    margin-left: 3%;
+    height: 25px;    
+}
+button {
+    height: 31px;
+}
